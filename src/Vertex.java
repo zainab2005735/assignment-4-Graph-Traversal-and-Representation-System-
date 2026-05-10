@@ -1,0 +1,17 @@
+//Aruzhan Abdrakhmanova IT-2501
+public class Vertex {
+    private int id; // unique identifier
+
+    public Vertex(int id) {
+        this.id = id;
+    }
+
+    public int getId() {
+        return id;
+    }
+
+    @Override
+    public String toString() {
+        return "Vertex{id=" + id + "}";
+    }
+}
