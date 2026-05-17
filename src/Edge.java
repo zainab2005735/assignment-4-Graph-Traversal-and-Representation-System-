@@ -1,4 +1,4 @@
-//Aruzhan Abdrakhmanova IT-2501
+
 public class Edge {
     private int source;
     private int destination;
