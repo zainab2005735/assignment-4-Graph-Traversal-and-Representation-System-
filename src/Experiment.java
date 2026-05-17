@@ -1,4 +1,4 @@
-//Aruzhan Abdrakhmanova IT-2501
+
 public class Experiment {
 
     public void runTraversals(Graph g) {
