@@ -1,4 +1,4 @@
-//Aruzhan Abdrakhmanova IT-2501
+
 public class Vertex {
     private int id; // unique identifier
 
