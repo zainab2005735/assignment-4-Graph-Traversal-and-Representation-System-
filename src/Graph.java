@@ -1,5 +1,4 @@
 import java.util.*;
-//Aruzhan Abdrakhmanova IT-2501
 public class Graph {
     private Map<Integer, Vertex> vertices;
     private Map<Integer, List<Edge>> adjList;
