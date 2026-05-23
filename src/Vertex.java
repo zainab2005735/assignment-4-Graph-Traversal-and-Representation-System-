@@ -1,12 +1,15 @@
-
+```java id="7t3xmc"
 public class Vertex {
-    private int id; // unique identifier
+
+    private int id;
 
     public Vertex(int id) {
+
         this.id = id;
     }
 
     public int getId() {
+
         return id;
     }
 
