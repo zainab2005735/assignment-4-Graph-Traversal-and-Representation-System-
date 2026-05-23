@@ -6,10 +6,12 @@ demonstrates two primary traversal algorithms: Breadth-First Search, which explo
 and Depth-First Search, which explores as far as possible along each branch before backtracking.
 - ## B. Class Descriptions
 * `Vertex.java`: Represents a single node in the graph, containing a unique `id`.
-![img.png](docs/screenshots/img.png)
+<img width="471" height="458" alt="4" src="https://github.com/user-attachments/assets/2c9a983e-2144-4634-99e8-cef1c49b7696" />
+
 
 * `Edge.java`: Represents a link between a `source` vertex and a `destination` vertex.
-![img_1.png](docs/screenshots/img_1.png)
+  <img width="538" height="490" alt="1" src="https://github.com/user-attachments/assets/09922b93-413d-4479-9e5c-1c88011e8962" />
+
 
 * `Graph.java`: Manages the collection of vertices and edges using an Adjacency List (`Map<Integer, List<Edge>>`). 
 Includes functions to add vertices, add edges, and perform traversals.
