@@ -64,6 +64,7 @@ when a node has no unvisited neighbors.
 
 
 # Graph Traversal and Representation System
+BONUS PART OF PROJECT:
 
 ## Overview
 This project implements a graph data structure using an adjacency list representation in Java.
